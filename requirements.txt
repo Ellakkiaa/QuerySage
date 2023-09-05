@@ -1,0 +1,6 @@
+langchain
+huggingface_hub
+sentence_transformers
+faiss-cpu
+streamlit
+bs4
