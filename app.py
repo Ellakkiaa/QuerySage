@@ -7,14 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1-0nuAdNomt_MMjR3AO-BKS4P0RFblUCh
 """
 
-!pip install langchain
-!pip install huggingface_hub
-!pip install sentence_transformers
-
-!pip install faiss-cpu
-
-!pip install -q streamlit
-
 import nltk
 import urllib
 from bs4 import BeautifulSoup
