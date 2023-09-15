@@ -1,6 +1,6 @@
 langchain
 huggingface_hub
 sentence_transformers
-faiss-cpu
+faiss-cpu==1.7.4
 streamlit
 bs4
