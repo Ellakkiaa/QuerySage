@@ -1,6 +1,9 @@
-langchain
-huggingface_hub
-sentence_transformers
+langchain==0.0.291
+huggingface_hub==0.17.1
+sentence_transformers==2.2.2
 faiss-cpu==1.7.4
-streamlit
-bs4
+streamlit==1.26.0
+nltk==3.8.1
+re==2.2.1
+bs4==4.11.2
+requests==2.31.0
